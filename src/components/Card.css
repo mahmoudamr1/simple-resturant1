@@ -1,0 +1,38 @@
+.card img {
+    border-radius: 15px;
+}
+
+.cards-products {
+    margin: 40px;
+    border: none !important;
+    flex-wrap: wrap;
+}
+
+.card {
+    border: none !important;
+    width: 100%;
+
+
+}
+
+.card-content {
+    text-align: center;
+}
+
+.card-content button {
+    font-size: 25px;
+}
+
+.card-content p {
+    color: #A82D49;
+    font-size: 24px;
+    font-weight: bold;
+
+}
+
+.card-content p span {
+    color: #999;
+    font-weight: normal;
+    font-size: 18px;
+    text-decoration: line-through;
+}

@@ -1,0 +1,11 @@
+:root {
+
+    --mainColor--: #A82C48;
+
+    font-family: 'Tajawal', sans-serif;
+}
+
+* {
+    box-sizing: border-box !important;
+
+}

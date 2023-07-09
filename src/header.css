@@ -1,0 +1,38 @@
+.nav1 img {
+    width: 100px;
+
+
+}
+
+
+nav {
+    background-color: white !important;
+
+    height: auto;
+    max-width: 100%;
+
+}
+
+nav a {
+    color: var(--mainColor--) !important;
+    font-weight: bold !important;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    transition: 0.2s ease-in-out;
+}
+
+nav a:hover {
+    color: rgb(255, 134, 134) !important;
+}
+
+nav #lastnavitem {
+    border: var(--mainColor--) solid 1px !important;
+    background-color: var(--mainColor--) !important;
+    color: white !important;
+
+}
+
+nav #lastnavitem:hover {
+    background-color: transparent !important;
+    color: var(--mainColor--) !important;
+}

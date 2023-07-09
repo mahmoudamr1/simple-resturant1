@@ -1,0 +1,17 @@
+.image-carousel {
+    width: 60px !important;
+    margin: auto;
+}
+
+.caption-carousel {
+    display: flex !important;
+    color: black !important;
+    justify-content: center !important;
+
+}
+
+.carouseldiv {
+    min-width: 50vh !important;
+    padding: 15px;
+    display: flex !important;
+}

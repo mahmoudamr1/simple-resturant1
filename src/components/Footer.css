@@ -1,0 +1,33 @@
+.footer {
+    background-color: var(--mainColor--);
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+
+}
+
+.footer-title {
+    color: white;
+}
+
+.footer span {
+    color: rgb(0, 0, 0);
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.footer .social-icons a {
+    font-size: 20px;
+    /* padding-top: 22px; */
+}
+
+.social-icons a {
+    color: #fff;
+    font-size: 1.7em;
+    padding-right: 30px;
+}
+
+.social-icons a:hover {
+    color: black;
+}
