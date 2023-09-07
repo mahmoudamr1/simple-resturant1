@@ -4,7 +4,7 @@ URL (https://mahmoudamr1.netlify.app/)
 --
 # Simple Restaurant Homepage - React.js
 
-![Restaurant Homepage](/public/restaurant.png)
+![Restaurant Homepage](/public/resturant.png)
 
 ## Project Overview
 Welcome to the "Simple Restaurant Homepage" project! This project showcases an attractive restaurant homepage created using React.js.
